@@ -22,6 +22,11 @@ I use python to analyse data and perform visualization in this report, including
 1. World Happiness Report 2021
 2. World Happiness Report 
 
+
+## Install
+pip install pycountry-convert
+pip install plotly==4.14.3
+
 ## Reference
 
 [Kaggle Project](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
