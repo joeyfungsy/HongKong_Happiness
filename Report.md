@@ -60,6 +60,6 @@ Hong Kong scores 0.71 in 2021, down from 0.80 in 2016 and 0.91 in 2006. This sho
 ### Conclusion
 When we look at the overall breakdown of all the 6 key components in the life satisfaction score, we notice something interesting. Although Hong Kong does not rank the top of the ladder score, it has the highest overall score, mainly because of its strong economic production and health. There is still room for improvement in terms of social support and freedom to make life changes. If the Hong Kong government can provide more support on social support and give more freedom to citizens, e.g. medical care, housing, and voting, then Hong Kong's ladder score can be improved soon.
 
-![alt text](https://github.com/joeyfungsy/HongKong_Happiness/blob/e41088bfe3b868c825c376ebb1fb42d2c886853e/Graphs/Over_time.png)
+![alt text](https://github.com/joeyfungsy/HongKong_Happiness/blob/c44aef66d2ff11ca6628beb0467d428f6da01e91/Graphs/Score_breakdown.png)
 
 ![alt text](https://github.com/joeyfungsy/HongKong_Happiness/blob/e41088bfe3b868c825c376ebb1fb42d2c886853e/Graphs/Over_time.png)
