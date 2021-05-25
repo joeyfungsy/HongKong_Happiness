@@ -15,17 +15,17 @@ The features that will be included in this project as meansurements are:
 - Healthy Life Expectancy at birth: the average life in good health
 - Freedom to make life choices: national aveage of binary responses (yes/no) based on Gallup World Poll questions about individuals' oppportunites and autonomy to perform an action
 
-I use python to analyse data and perform visualization in this report, including libraries e.g. pandas, numpy, plotly and matplotlib.
+I use python to analyse data and perform visualization in this report, including libraries e.g. pandas, numpy, plotly and matplotlib in Jupyter Notebook.
 
 ## Dataset
-
+The happiness ranking and scores use data from the Gallup World Poll. In the 2021 report, it contains 149 countries.
 1. World Happiness Report 2021
 2. World Happiness Report 
 
-
 ## Install
-pip install pycountry-convert
-pip install plotly==4.14.3
+If you do not have these package in your device, please install using these lines:
+```pip install pycountry-convert```
+```pip install plotly==4.14.3```
 
 ## Reference
 
